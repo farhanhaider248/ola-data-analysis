@@ -86,27 +86,6 @@ The interactive dashboard includes:
 
 ---
 
-## 📁 Project Structure
-
-```
-OLA-Data-Analysis-Project
-│
-├── Dataset
-│   └── Bookings-100000-Rows.xlsx
-│
-├── SQL
-│   ├── OLA Project Questions.sql
-│   └── OLA MySQL Analysis.pdf
-│
-├── Dashboard
-│   ├── OLA Dashboard.pbix
-│   └── Dashboard.pdf
-│
-└── README.md
-```
-
----
-
 ## 🚀 How to Use
 
 1. Download the dataset.
@@ -115,19 +94,7 @@ OLA-Data-Analysis-Project
 4. Open the Power BI (.pbix) file.
 5. Explore the interactive dashboard.
 
----
-
-## 📷 Dashboard Preview
-
-> Add your Power BI dashboard screenshot here.
-
-Example:
-
 ```
-![Dashboard](Images/dashboard.png)
-```
-
----
 
 ## 📚 Skills Demonstrated
 
